@@ -1,3 +1,4 @@
+// Here we use the access specifiers
 class Access
 {
     public static void main(String A[])
@@ -6,9 +7,9 @@ class Access
 
         dobj.Display();
 
-        System.out.println("Value of i : "+dobj.i); //Allowed
-        System.out.println("Value of j : "+dobj.j); //Not allowed
-        System.out.println("Value of k : "+dobj.k); // ?
+        System.out.println("Value of i : "+dobj.i); // Allowed
+        System.out.println("Value of j : "+dobj.j); // Not allowed
+        System.out.println("Value of k : "+dobj.k); // Allowed
     }
 }
 
@@ -27,9 +28,9 @@ class Demo
 
     public void Display()
     {
-        System.out.println("Value of i : "+i);   //ALlowed
-        System.out.println("Value of j : "+j);   //Allowed
-        System.out.println("Value of k : "+k);   //Allowed
+        System.out.println("Value of i : "+i);   // ALlowed
+        System.out.println("Value of j : "+j);   // Allowed
+        System.out.println("Value of k : "+k);   // Allowed
 
     }
 }
