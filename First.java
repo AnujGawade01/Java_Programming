@@ -1,3 +1,4 @@
+// Here we create a main class and arithmetic class to return addition and subtraction
 class First
 {
     public static void main(String A[])
@@ -18,13 +19,13 @@ class Arithmetic
 {
     public int No1, No2;
 
-    public Arithmetic()
+    public Arithmetic()                           // Default Constructor
     {
         this.No1 = 0;
         this.No2 = 0;
     }
 
-    public Arithmetic(int Value1, int Value2)
+    public Arithmetic(int Value1, int Value2)    // Parameterized Constructor
     {
         this.No1 = Value1;
         this.No2 = Value2;
