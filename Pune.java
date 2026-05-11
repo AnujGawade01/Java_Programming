@@ -1,3 +1,4 @@
+// Here we create a class inside folder/package LB which is inside package PPA 
 package PPA.LB;
 public class Pune
 {
