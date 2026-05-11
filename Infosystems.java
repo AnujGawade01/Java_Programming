@@ -1,3 +1,4 @@
+// Here we create a class inside user defined package
 package PPA;
 public class Infosystems
 {
