@@ -1,3 +1,4 @@
+// Here created a add function and a subtract function
 import java.util.Scanner;
 
 class Mytrial2
