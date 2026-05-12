@@ -1,3 +1,4 @@
+// Here request is made to the garbage collector to reclaim memory from unused objects
 class SingleGC
 {
     public static void main(String A[])
