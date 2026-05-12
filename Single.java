@@ -1,4 +1,4 @@
-
+// Here single inheritance is displayed
 class Single
 {
     public static void main(String A[])
