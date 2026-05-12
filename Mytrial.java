@@ -1,4 +1,4 @@
-// created on 20th March 2026 as a self code
+// Here created a add function to add two integers
 import java.util.Scanner;
 
 class Mytrial           // Wrote the first letter of class in uppercase as "Class"
