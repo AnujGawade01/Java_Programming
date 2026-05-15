@@ -1,4 +1,5 @@
-class ThisSuperXX
+// Here we write the code without using super 
+class SuperDemo
 {
     public static void main(String A[])
     {
