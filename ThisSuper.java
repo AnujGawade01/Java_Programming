@@ -1,4 +1,4 @@
-// Here we use the this keyword to call the class method
+// Here we use the this keyword & super keyword to call the base/parent class method
 class ThisSuper
 {
     public static void main(String A[])
