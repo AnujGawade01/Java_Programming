@@ -1,4 +1,5 @@
-class ThisSuperXX
+// Here we initialize value of i of Base from Derived class using super keyword
+class SuperDemoX
 {
     public static void main(String A[])
     {
