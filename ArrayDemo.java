@@ -1,3 +1,4 @@
+// Here we create an Array in java with different initialization techniques
 class ArrayDemo
 {
     public static void main(String A[])
