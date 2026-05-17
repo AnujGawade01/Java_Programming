@@ -1,3 +1,4 @@
+// Here we used dynamic memory allocation to allocate size for Marks and take the input values and display them
 import java.util.Scanner;
 
 class DynamicMemoryIO
