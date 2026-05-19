@@ -1,3 +1,4 @@
+// Here we created a base pointer that points to object of derived i.e Upcasting 
 class RMD_Overriding
 {
     public static void main(String A[])
