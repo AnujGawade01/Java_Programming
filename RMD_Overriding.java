@@ -1,3 +1,4 @@
+// Here we created a base pointer that points to object of derived i.e Upcasting 
 class RMD_Overriding
 {
     public static void main(String A[])
@@ -7,7 +8,7 @@ class RMD_Overriding
         bobj.fun();     // Base fun
         bobj.gun();     // Derived gun
         bobj.sun();     // Derived sun
-        bobj.run();     // Error
+        //bobj.run();     // Error
 
     }
 }
