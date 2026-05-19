@@ -1,3 +1,4 @@
+// Here we created a final variable i and did some operations that will lead to error
 class final_data
 {
     public static void main(String A[])
