@@ -1,4 +1,4 @@
-// Here we created a base pointer that points to object of derived i.e Upcasting 
+// Here we created a base pointer that points to object of derived i.e Upcasting and the code will give error as there is no run() in Base class
 class RMD_Overriding
 {
     public static void main(String A[])
