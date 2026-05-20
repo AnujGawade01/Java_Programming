@@ -1,3 +1,4 @@
+// Here we create a final class and created its child class which will give error
 class final_class
 {
     public static void main(String A[])
