@@ -1,3 +1,4 @@
+// Here we create a abstract class that contains an abstract and concrete method with the derived class giving the body for the abstract method
 class abstract_demo_complete
 {
     public static void main(String A[])
