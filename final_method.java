@@ -1,3 +1,4 @@
+// Here we create a final method
 class final_method
 {
     public static void main(String A[])
