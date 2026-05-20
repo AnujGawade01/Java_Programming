@@ -1,3 +1,4 @@
+// Here we create a abstract class that contains an abstract and concrete method
 class abstract_demoX
 {
     public static void main(String A[])
