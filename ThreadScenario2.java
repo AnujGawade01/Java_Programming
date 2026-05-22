@@ -1,3 +1,4 @@
+// Here we create demo thread by implementing Runnable interface
 class ThreadScenario2
 {
     public static void main(String A[])
