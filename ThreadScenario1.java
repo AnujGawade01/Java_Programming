@@ -1,3 +1,4 @@
+// Here we create two threads
 class ThreadScenario1
 {
     public static void main(String A[])
