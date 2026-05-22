@@ -1,3 +1,4 @@
+// Here we learn about the main thread concept
 class MainThread
 {
     public static void main(String A[])
