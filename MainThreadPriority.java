@@ -1,3 +1,4 @@
+// Here we get the priority of main thread
 class MainThreadPriority
 {
     public static void main(String A[])
