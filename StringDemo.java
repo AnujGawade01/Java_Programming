@@ -1,3 +1,4 @@
+// Here we create strings in java
 class StringDemo
 {
     public static void main(String A[])
