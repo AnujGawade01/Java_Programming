@@ -1,3 +1,4 @@
+// Here we create two threads and execute them a the same time
 class MultithreadingLoop
 {
     public static void main(String A[])
