@@ -1,3 +1,4 @@
+// Here join keyword forces the main thread to wait for the other thread to complete their execution and then print "End of main thread"
 class MultithreadingLoopJoin
 {
     public static void main(String A[]) throws Exception
