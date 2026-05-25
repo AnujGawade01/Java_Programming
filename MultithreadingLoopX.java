@@ -1,4 +1,4 @@
-//Here the main thread ends before the other threads
+// Here the main thread ends before the other threads
 class MultithreadingLoopX
 {
     public static void main(String A[])
