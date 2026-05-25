@@ -1,3 +1,4 @@
+// here the thread prin statement loop is executed with time interval of 3 secs 
 class MultithreadingSleep
 {
     public static void main(String A[]) throws Exception
