@@ -1,3 +1,4 @@
+// Here we print the name of the two threads
 class MultithreadingName
 {
     public static void main(String A[])
