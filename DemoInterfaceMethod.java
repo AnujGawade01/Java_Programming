@@ -1,4 +1,4 @@
-// 19th April 2026 Sunday lecture
+// Here we create an interface and a class that inherits it but doesn't define the abstract method in Circle interface which wil lead to error
 
 interface Circle
 {
