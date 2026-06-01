@@ -1,4 +1,4 @@
-// 19th April 2026 Sunday lecture
+// Here we create an interface and a class that inherits it & define the abstract method in Circle interface
 
 class DemoInterfaceMethodX
 {
