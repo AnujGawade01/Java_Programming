@@ -1,3 +1,4 @@
+// To communicate with ChatServer
 import java.io.*;
 import java.net.*;
 
